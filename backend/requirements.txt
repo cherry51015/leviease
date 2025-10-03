@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+requests
+numpy
+faiss-cpu
+google-generativeai
+pillow
+python-docx
+pdf2image
+pytesseract
+langdetect
+python-dotenv
+PyPDF2

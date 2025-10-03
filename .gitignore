@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+
+# VSCode
+.vscode/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# FAISS index & data
+*.bin
+*.json
+
+
+# Streamlit cache
+.streamlit/
+
+data/faiss_index.bin
+data/faiss_index.bin.meta.json
+embeddings.jsonl
+embeddings(1).jsonl
+merged_dataset.jsonl
