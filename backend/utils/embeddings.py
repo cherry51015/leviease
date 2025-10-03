@@ -19,7 +19,7 @@ EMBED_MODEL = "models/embedding-001"  # 768-dim
 # 🔑 Load environment variables
 load_dotenv()
 # "AIzaSyBpLF4w6gUTFf5PtNMX17DKUFjH9DPPtmE",
-API_KEYS = ["AIzaSyAGhIHd-XCEr0wtWHvUn_Dbg_DMuRqjDaM","AIzaSyBpLF4w6gUTFf5PtNMX17DKUFjH9DPPtmE"]
+API_KEYS = ["YOU API KEY 1 HERE","IF YOU HAVE ANOTHER BILLING KEY THEN KEY 2"]
 API_KEYS = [k.strip() for k in API_KEYS if k.strip()]
 if not API_KEYS:
     raise ValueError("❌ GEMINI_KEYS not found in .env (format: GEMINI_KEYS=key1,key2)")
