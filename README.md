@@ -5,17 +5,23 @@ An AI-powered assistant for **legal document intelligence**. This project enable
 
 The system combines **LLM-powered reasoning** with **custom document pipelines** to help professionals save time, reduce errors, and get actionable insights from large legal texts.
 
+Your multilingual, safe, and intelligent legal document companion — upload files, ask questions, or chat freely with general knowledge, all while ensuring no fabricated legal advice
+
 ---
 
 ## 🚀 Features
 
-* **📂 Document Upload** – Upload PDF, DOCX, or TXT legal documents.
-* **💬 Chat with Your Document** – Ask questions in plain language and get context-aware answers.
-* **🔍 Document Verifier** – Run AI-based verification checks to validate clauses, missing sections, and inconsistencies.
-* **📝 Brief Mode** – Generate concise legal briefings or summaries for faster case preparation.
-* **⚡ Fast & Interactive UI** – Streamlit interface for smooth interaction.
+* **📂 Document Upload & Analysis** – Upload legal files (PDF, DOCX, TXT) and run AI-powered verification, clause extraction, and compliance checks.
+* **💬 Chat with Your Document** – Ask **document-specific questions** in plain language; the AI retrieves context-aware answers.
+* **🌍 Multi-Language Support** – Ask questions in different languages and receive meaningful responses.
+* **🤖 General Knowledge Mode** – Even without uploading a document, you can ask **general legal or non-legal questions**, and the model will respond using its world knowledge.
+* **⚖️ Safe by Design** – The model never **divises, invents, or fabricates legal advice**; it sticks to document facts or general knowledge.
+* **📝 Brief Mode** – Generate concise summaries or structured briefings for faster case prep.
+* **🔍 Document Verifier** – AI-powered clause and compliance verification, returning structured outputs (JSON).
+* **⚡ Smooth & Interactive UI** – Modern Streamlit frontend for easy usage.
 
 ---
+
 
 ## 🏗️ Architecture
 
@@ -88,6 +94,30 @@ Open in browser at **[http://localhost:8501](http://localhost:8501)**.
 
 ---
 
+## 🎥 Demo
+
+### 1. Upload Document
+
+![Upload Demo](assets/screenshots/upload.png)
+
+### 2. Run Verifier
+
+![Verifier Demo](assets/screenshots/verifier.png)
+
+### 3. Generate Briefing
+
+![Briefing Demo](assets/screenshots/briefing.png)
+
+### 4. Chat with Document
+
+![Chat Demo](assets/screenshots/chat.png)
+
+Or see it in action:
+
+![Demo GIF](assets/demo/legal-ai-demo.gif)
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** [Streamlit](https://streamlit.io/)
@@ -110,6 +140,9 @@ legal-ai-assistant/
 │   └── file_loader.py     # Document ingestion utilities
 │── data/
 │   └── faiss_index.bin    # Vector index for semantic search
+│── assets/
+│   ├── screenshots/       # Static UI screenshots
+│   └── demo/              # Demo GIFs
 │── requirements.txt
 │── README.md
 ```
@@ -141,3 +174,4 @@ This project is licensed under the **MIT License**.
 ⚖ Built with AI to make legal work **simpler, faster, and smarter**.
 
 ---
+
