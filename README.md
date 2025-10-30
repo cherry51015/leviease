@@ -97,33 +97,38 @@ Perfect 👍 since it’s for a **GitHub README**, here’s the **clean, optimiz
 
 ---
 
+Got it ✅ — you want your **GitHub README** demo section to:
+
+* **Show the image thumbnails** directly in README (so they’re visible)
+* **Link those images** to the **Drive video demos** when clicked
+
+Here’s the correct, neat, and GitHub-friendly version 👇
+
+---
+
 ## 🎥 Demo
 
 ### 1. Upload Document
 
-📄 [Watch Demo](https://drive.google.com/file/d/1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9/view?usp=sharing)
-![Upload Demo](https://drive.google.com/uc?id=1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9)
+[![Upload Demo](https://drive.google.com/uc?id=1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9)](https://drive.google.com/file/d/1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9/view?usp=sharing)
 
 ---
 
 ### 2. Run Verifier
 
-🧾 [Watch Demo](https://drive.google.com/file/d/1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr/view?usp=sharing)
-![Verifier Demo](https://drive.google.com/uc?id=1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr)
+[![Verifier Demo](https://drive.google.com/uc?id=1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr)](https://drive.google.com/file/d/1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr/view?usp=sharing)
 
 ---
 
 ### 3. Generate Briefing
 
-🧠 [Watch Demo](https://drive.google.com/file/d/1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH/view?usp=sharing)
-![Briefing Demo](https://drive.google.com/uc?id=1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH)
+[![Briefing Demo](https://drive.google.com/uc?id=1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH)](https://drive.google.com/file/d/1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH/view?usp=sharing)
 
 ---
 
 ### 4. Chat with Document
 
-💬 [Watch Demo](https://drive.google.com/file/d/1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR/view?usp=sharing)
-![Chat Demo](https://drive.google.com/uc?id=1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR)
+[![Chat Demo](https://drive.google.com/uc?id=1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR)](https://drive.google.com/file/d/1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR/view?usp=sharing)
 
 ---
 
@@ -131,8 +136,8 @@ Perfect 👍 since it’s for a **GitHub README**, here’s the **clean, optimiz
 
 👉 [View All Demos](https://drive.google.com/drive/folders/1lMOVf16aaa84_eu4Uv-0zCsvFVwEC49W)
 
-
 ---
+
 
 ## 🛠️ Tech Stack
 
