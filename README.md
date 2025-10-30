@@ -78,7 +78,7 @@ To launch the Streamlit UI:
 streamlit run app.py
 ```
 
-Open in browser at **[http://localhost:8501](http://localhost:8501)**.
+Open in browser at **[http://.](http://...........)**.
 
 ---
 
