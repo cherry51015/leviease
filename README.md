@@ -98,23 +98,23 @@ Open in browser at **[http://.](http://...........)**.
 
 ### 1. Upload Document
 
-![Upload Demo](assets/screenshots/upload.png)
+![Upload Demo](https://drive.google.com/file/d/1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9/view?usp=sharing)
 
 ### 2. Run Verifier
 
-![Verifier Demo](assets/screenshots/verifier.png)
+![Verifier Demo](https://drive.google.com/file/d/1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr/view?usp=sharing)
 
 ### 3. Generate Briefing
 
-![Briefing Demo](assets/screenshots/briefing.png)
+![Briefing Demo](https://drive.google.com/file/d/1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH/view?usp=sharing)
 
 ### 4. Chat with Document
 
-![Chat Demo](assets/screenshots/chat.png)
+![Chat Demo](https://drive.google.com/file/d/1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR/view?usp=sharing)
 
 Or see it in action:
 
-![Demo GIF](assets/demo/legal-ai-demo.gif)
+![Demo GIF](https://drive.google.com/drive/folders/1lMOVf16aaa84_eu4Uv-0zCsvFVwEC49W)
 
 ---
 
