@@ -93,28 +93,44 @@ Open in browser at **[http://.](http://...........)**.
 3. Review AI outputs, copy insights, or export JSON results.
 
 ---
+Perfect 👍 since it’s for a **GitHub README**, here’s the **clean, optimized, and GitHub-rendering–friendly** version of your **🎥 Demo** section — formatted with proper Markdown and clickable Drive preview links (since Drive images can’t directly render in README):
+
+---
 
 ## 🎥 Demo
 
 ### 1. Upload Document
 
-![Upload Demo]([https://drive.google.com/file/d/1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9/view?usp=sharing])
+📄 [Watch Demo](https://drive.google.com/file/d/1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9/view?usp=sharing)
+![Upload Demo](https://drive.google.com/uc?id=1HjetmWasqzB-6Mzava6sL9TtCqeEzmg9)
+
+---
 
 ### 2. Run Verifier
 
-![Verifier Demo](https://drive.google.com/file/d/1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr/view?usp=sharing)
+🧾 [Watch Demo](https://drive.google.com/file/d/1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr/view?usp=sharing)
+![Verifier Demo](https://drive.google.com/uc?id=1KWkSmLDbsruQ1lNCSdOtXh4bmWiHaNFr)
+
+---
 
 ### 3. Generate Briefing
 
-![Briefing Demo](https://drive.google.com/file/d/1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH/view?usp=sharing)
+🧠 [Watch Demo](https://drive.google.com/file/d/1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH/view?usp=sharing)
+![Briefing Demo](https://drive.google.com/uc?id=1fuPIDwc-Wx-TgvKo_xqwtoWmodvTUTPH)
+
+---
 
 ### 4. Chat with Document
 
-![Chat Demo](https://drive.google.com/file/d/1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR/view?usp=sharing)
+💬 [Watch Demo](https://drive.google.com/file/d/1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR/view?usp=sharing)
+![Chat Demo](https://drive.google.com/uc?id=1p4orvlVSL0TeBBOrdGmdO1QWRx7D_rwR)
 
-Or see it in action:
+---
 
-![Demo GIF](https://drive.google.com/drive/folders/1lMOVf16aaa84_eu4Uv-0zCsvFVwEC49W)
+### 🎬 Full Demo Folder
+
+👉 [View All Demos](https://drive.google.com/drive/folders/1lMOVf16aaa84_eu4Uv-0zCsvFVwEC49W)
+
 
 ---
 
